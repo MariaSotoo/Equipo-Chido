@@ -114,6 +114,13 @@ h4{
 	height: auto;
 	margin: 5px;
 }
+#scrollUp{
+	bottom: 20px;
+	right: 20px;
+	padding: 10px 20px;
+	background: #555;
+	color: #fff;
+}
 	.img2{
 	max-width: 100%;
 	height: auto;
