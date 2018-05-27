@@ -39,14 +39,15 @@ a{
 .der{
 	float: right;
 }
-.izq a{
-	margin-right: 15px;
-      color:#404B69;
-}
 .der a{
       margin-left: 25px;
       
 }
+.izq a{
+	margin-right: 15px;
+      color:#404B69;
+}
+
 .nombre{
 	font-size: 22px;
 	font-family: Roboto-Medium;
