@@ -24,7 +24,7 @@ header{
 	font-family: Roboto-Regular;
 	font-style: bold;
 	font-size: 16px;
-	padding: 60px;
+	padding: 40px;
 	padding-top: 10px;
 	margin: 0;
 }
@@ -41,7 +41,6 @@ a{
 }
 .izq a{
 	margin-right: 15px;
-      text-decoration: none;
       color:#404B69;
 }
 .der a{
@@ -54,7 +53,7 @@ a{
 	font-style: bold;
 }
 h1{
-	font-size: 50px;
+	font-size: 48px;
 	font-family: Roboto-Medium;
 	color: #232931;
 }
@@ -121,9 +120,10 @@ h4{
 	background: #555;
 	color: #fff;
 }
-	.img2{
+	.footer{
 	max-width: 100%;
 	height: auto;
-	}
+}	
+
 
 
